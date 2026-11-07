@@ -1,0 +1,7 @@
+{
+  "name": "maeum-ledger",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Offline single-file ledger for Korean ceremonial contributions",
+  "scripts": { "test": "node tests/app.test.cjs" }
+}
